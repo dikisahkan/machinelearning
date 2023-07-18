@@ -7,6 +7,8 @@ The dataset used here is a Bike Sharing data. It's attached in this repo or you 
 
 You can see the presentation version [here](https://www.canva.com/design/DAFosY34nYE/uSyt3Ni0WvF_Y9WGkEgyFg/view?utm_content=DAFosY34nYE&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
+You can also check me doing the presentation in a YouTube video [here](https://youtu.be/dmjCSMNNkw4)
+
 ---
 ## **What did i do in this machine learning modeling?**
 Capital Bikeshare is a prominent bike-sharing program operating in the Washington, D.C. metropolitan area.
