@@ -21,7 +21,7 @@ Then, i create Cosine Similarity to find match for each title.
 
 Finally, i create a function to call the title that is similar with input title (anime you have watched)
 
-Below is the result if you have watched One Piece:
+Below is the result if you have watched One Piece:  
 ![cbs](screenshot/cbs.jpg)
 
 ### **User Profile Based Strategy**
@@ -31,10 +31,10 @@ I add the new single row into TF IDF table before recalculating the Cosine Simil
 
 After that, i just get the title recommendation based on that Cosine Similarity.
 
-If your favorite anime titles are:
+If your favorite anime titles are:  
 ![upbs1](screenshot/upbs1.jpg)
 
-Then, you will be recommended with:
+Then, you will be recommended with:  
 ![upbs2](screenshot/upbs2.jpg)
 
 ---
